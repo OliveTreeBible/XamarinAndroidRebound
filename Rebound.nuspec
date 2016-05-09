@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.3.8</version>
+    <title>Rebound Xamarin Bindings</title>
+    <authors>Olive Tree Bible Software</authors>
+    <owners>Olive Tree Bible Software</owners>
+    <projectUrl>https://github.com/OliveTreeBible/XamarinAndroidRebound</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin bindings for the Facebook Rebound library: https://github.com/facebook/rebound
+    
+This project does not offer support for Rebound, but will match version numbering.</description>
+    <releaseNotes>Inital project release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Xamarin Android Rebound Animation</tags>
+  </metadata>
+</package>
