@@ -7,9 +7,7 @@ using Android.App;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Xamarin.Android.Rebound")]
-[assembly: AssemblyDescription(@"Xamarin bindings for the Facebook Rebound library: https://github.com/facebook/rebound
-
-This project does not offer support for Rebound, but will match version numbering.")]
+[assembly: AssemblyDescription(@"")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Xamarin.Android.Rebound")]
